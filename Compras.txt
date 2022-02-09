@@ -1,3 +1,5 @@
 Guitarras
 Bajos 
-Baterias Acusticas
+Bateria
+Violin
+Charango
