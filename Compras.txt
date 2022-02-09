@@ -1,6 +1,2 @@
 Guitarras
 Bajos 
-Bateria
-Violin
-Charango
-Piano
